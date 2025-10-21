@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/Heddt12/Heddt12/main/687474~1.GIF" alt="Banner" width="100%" />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Darryl HENKE</h1>
 <h3 align="center">💻 Java Backend Developer | Angular Frontend Developer | 🤖 AI Explorer</h3>
 
