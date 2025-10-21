@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heddt12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FonjiHill&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
