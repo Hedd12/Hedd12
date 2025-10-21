@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Heddt12/Heddt12/main/img.GIF" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hedd12/Hedd12/main/img.GIF" alt="Banner" width="100%" />
 </p>
 
 
